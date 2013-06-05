@@ -1,0 +1,6 @@
+Function Plotter
+	by Nimesh Ghelani
+
+Compiled Debug Binary present in bin/Debug/
+Compiling it required the ported WinBGIm graphics.h (http://www.cs.colorado.edu/~main/bgi/dev-c++/)
+Binary runs fine under Linux using Wine.

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1302750406 source:c:\documents and settings\nims\my documents\proj\funtion plotter\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<iostream>
+	<cstring>
+	<ctype.h>
+	"eval.h"
+
+1303561550 c:\documents and settings\nims\my documents\proj\funtion plotter\eval.h
+	<iostream>
+	<cstring>
+	<cmath>
+	<stdio.h>
+
+1302750406 source:f:\projects\funtion plotter\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<iostream>
+	<cstring>
+	<ctype.h>
+	"eval.h"
+
+1303561550 f:\projects\funtion plotter\eval.h
+	<iostream>
+	<cstring>
+	<cmath>
+	<stdio.h>
+
